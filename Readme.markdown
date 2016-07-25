@@ -29,7 +29,7 @@ gradientView.bottomBorderColor = UIColor.blueColor()
 view.addSubview(gradientView)
 ```
 
-See the [source](GradientView.swift) for full documentation.
+See the [source](GradientView/GradientView.swift) for full documentation.
 
 
 ## Example
